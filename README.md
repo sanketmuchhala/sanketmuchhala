@@ -1,8 +1,7 @@
 # Hi there! 👋 I'm Sanket Muchhala
 
+<img src="  ![about-img](https://github.com/sanketmuchhala/sanketmuchhala/assets/61338448/8c244a46-7432-4649-ab40-c987356c9aca)   " alt="Banner" width="1000" height="300">
 
-![Banner](https://github.com/sanketmuchhala/sanketmuchhala/assets/61338448/b2814c4c-beec-4e3e-8e46-7283c4cb0d32)
-rl.png)
 
 I am a developer who is passionate about Business Intelligence and Data Science. I enjoy working with Python, Django, SQL, and Java.
 
@@ -16,22 +15,22 @@ I am a developer who is passionate about Business Intelligence and Data Science.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ShreeramGeedh&show_icons=true&theme=highcontrast&&count_private=true&hide=stars" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreeramGeedh&layout=compact&theme=highcontrast&langs_count=6" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=sanketmuchhala&show_icons=true&theme=highcontrast&&count_private=true&hide=stars" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanketmuchhala&layout=compact&theme=highcontrast&langs_count=6" />
 </p>
 
 ## 🤝 Connect with Me
 
 <p align="center">
-  <a href="https://www.facebook.com/shreeram.geedh.7/"><img src="https://img.shields.io/badge/facebook-%230077B5.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/shreeramgeedh"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.hackerrank.com/shreeramgeedh"><img src="https://img.shields.io/badge/hackerrank-%231DA1F2.svg?&style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
-  <a href="https://www.kaggle.com/shreeramgeedh"><img src="https://img.shields.io/badge/kaggle-%231DA1F2.svg?&style=for-the-badge&logo=kaggle&logoColor=black" /></a>
-  <a href="https://www.instagram.com/shreeeeeeee__/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://twitter.com/ShreeramGeedh"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://github.com/ShreeramGeedh"><img src="https://img.shields.io/badge/github-%23000000.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://github.com/ShreeramGeedh?tab=repositories"><img src="https://badges.pufler.dev/repos/ShreeramGeedh?style=for-the-badge&color=red"></a>
-  <a href="https://github.com/ShreeramGeedh"><img src="https://komarev.com/ghpvc/?username=ShreeramGeedh&label=Views&color=blue&style=flat-square" alt="ShreeramGeedh"/></a>
+  <a href="https://www.facebook.com/sanket.muchhala/"><img src="https://img.shields.io/badge/facebook-%230077B5.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/sanketmuchhala/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.hackerrank.com/sanketmuchhala"><img src="https://img.shields.io/badge/hackerrank-%231DA1F2.svg?&style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
+  <a href="https://www.kaggle.com/sanketmuchhala"><img src="https://img.shields.io/badge/kaggle-%231DA1F2.svg?&style=for-the-badge&logo=kaggle&logoColor=black" /></a>
+  <a href="https://www.instagram.com/sanket.muchhala/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://twitter.com/sanketmuchhala"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://github.com/sanketmuchhala"><img height="28" src="https://img.shields.io/badge/github-%23000000.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://github.com/sanketmuchhala?tab=repositories"><img src="https://badges.pufler.dev/repos/sanketmuchhala?style=for-the-badge&color=red"></a>
+  <a href="https://github.com/sanketmuchhala"><img height="28" src="https://komarev.com/ghpvc/?username=sanketmuchhala&label=Views&color=blue&style=flat-square" alt="sanketmuchhala"/></a>
 </p>
 
 ---
