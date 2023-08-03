@@ -1,4 +1,5 @@
-# Hi there! 👋 I'm Shreeram Geedh
+# Hi there! 👋 I'm Sanket Muchhala
+
 
 ![Banner](https://github.com/sanketmuchhala/sanketmuchhala/assets/61338448/b2814c4c-beec-4e3e-8e46-7283c4cb0d32)
 rl.png)
