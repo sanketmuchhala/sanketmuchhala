@@ -1,13 +1,10 @@
 # Hi there! 👋 I'm Sanket Muchhala
 
 <div align="center">
-  <img src="https://github.com/sanketmuchhala/sanketmuchhala/assets/61338448/8c244a46-7432-4649-ab40-c987356c9aca.png" alt="Banner" width="96" height="128">
-</div>
-
-<div align="center">
-  <p align="left">
-    I am a developer who is passionate about Business Intelligence and Data Science. I enjoy working with Python, Django, SQL, and Java.
-  </p>
+  <div style="display: flex; align-items: center;">
+    <img src="https://github.com/sanketmuchhala/sanketmuchhala/assets/61338448/8c244a46-7432-4649-ab40-c987356c9aca.png" alt="Banner" width="96" height="128">
+    <p style="margin-left: 20px;">I am a developer who is passionate about Business Intelligence and Data Science. I enjoy working with Python, Django, SQL, and Java.</p>
+  </div>
 </div>
 
 ## 💼 Work and Interests
