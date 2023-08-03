@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Sanket Muchhala
 
-<table style="border-collapse: collapse;">
+<table  style="border-collapse: collapse; border: none; padding: 0;">
   <tr>
     <td style="border: none;">
       <img src="https://github.com/sanketmuchhala/sanketmuchhala/assets/61338448/8c244a46-7432-4649-ab40-c987356c9aca.png" alt="Banner" width="96" height="128">
