@@ -6,7 +6,7 @@
 <p align="left">👯 I’m looking to collaborate on open source projects in Machine Learning and Data Science.</p>
 <p align="left">🤝 I’m looking for help with Advanced Machine Learning techniques and Big Data technologies.</p>
 <p align="left">💬 Ask me about Python, SQL, Django, and Java.</p>
-<p align="left">📫 How to reach me: <a href="mailto:your-email@example.com">your-email@example.com</a></p>
+<p align="left">📫 How to reach me: <a href="mailto:sanket.muchhala@gmail.com">sanket.muchhala@gmail.com</a></p>
 <p align="left">📄 Know more about my experiences: [LinkedIn](https://www.linkedin.com/in/sanketmuchhala/)</p>
 <p align="left">⚡ Fun fact: I love to attend Data Science conferences and hackathons.</p>
 
