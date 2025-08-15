@@ -42,13 +42,13 @@ I'm a data-driven problem solver with a focus on **Machine Learning**, **Analyti
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanketmuchhala&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" height="180em" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanketmuchhala&theme=tokyonight&hide_border=false" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanketmuchhala&layout=compact&theme=tokyonight&langs_count=8" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sanketmuchhala&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide=contribs,issues" height="150em" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanketmuchhala&theme=tokyonight&hide_border=false" height="150em" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanketmuchhala&theme=tokyo-night&hide_border=true&area=true&area_color=4F8CC9" height="250em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanketmuchhala&layout=compact&theme=tokyonight&langs_count=6&hide=html,css,scss" height="150em"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanketmuchhala&theme=tokyo-night&hide_border=true&area=true&area_color=4F8CC9&height=200" height="200em" />
 </div>
 
 ---
