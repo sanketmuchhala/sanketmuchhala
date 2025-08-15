@@ -42,6 +42,14 @@ I’m a data-driven problem solver with a focus on Machine Learning, Analytics, 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanketmuchhala&layout=compact&theme=tokyonight&langs_count=8" height="160em"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanketmuchhala&theme=tokyo-night&hide_border=true" height="300em" />
+</p>
+
+<p align="center">
+  <img src="https://github-contribution-stats.vercel.app/api/?username=sanketmuchhala&theme=tokyo-night&show_icons=true" height="200em" />
+</p>
+
 ---
 
 ### Connect with Me
