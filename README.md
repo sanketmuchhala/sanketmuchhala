@@ -6,6 +6,8 @@
   <img src="https://komarev.com/ghpvc/?username=sanketmuchhala&style=flat-square&color=blue" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/sanketmuchhala?label=Followers&style=flat-square&color=green" alt="GitHub Followers" />
   <img src="https://img.shields.io/github/stars/sanketmuchhala?label=Stars&style=flat-square&color=yellow" alt="GitHub Stars" />
+  <img src="https://img.shields.io/github/repos/sanketmuchhala?label=Public%20Repos&style=flat-square&color=orange" alt="Public Repos" />
+  <img src="https://img.shields.io/github/repos/sanketmuchhala?label=Private%20Repos&style=flat-square&color=red" alt="Private Repos" />
 </div>
 
 ---
