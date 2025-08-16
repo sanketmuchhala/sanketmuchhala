@@ -1,11 +1,14 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=4F8CC9&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Sanket+Muchhala;Data+Science+Master's+Student;ML+%7C+AI+%7C+Analytics+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=4F8CC9&center=true&vCenter=true&width=500&lines=Hello%2C+I'm+Sanket+Muchhala;Data+Science+Master's+Student;ML+%7C+AI+%7C+Analytics+Enthusiast" alt="Typing SVG" />
 </div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=sanketmuchhala&style=flat-square&color=blue" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/sanketmuchhala?label=Followers&style=flat-square&color=green" alt="GitHub Followers" />
   <img src="https://img.shields.io/github/stars/sanketmuchhala?label=Stars&style=flat-square&color=yellow" alt="GitHub Stars" />
+</div>
+
+<div align="center">
   <img src="https://img.shields.io/github/repos/sanketmuchhala?label=Public%20Repos&style=flat-square&color=orange" alt="Public Repos" />
   <img src="https://img.shields.io/github/repos/sanketmuchhala?label=Private%20Repos&style=flat-square&color=red" alt="Private Repos" />
 </div>
@@ -42,13 +45,13 @@ I'm a data-driven problem solver with a focus on **Machine Learning**, **Analyti
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanketmuchhala&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide=contribs,issues" height="150em" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanketmuchhala&theme=tokyonight&hide_border=false" height="150em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sanketmuchhala&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide=contribs,issues" height="140em" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanketmuchhala&theme=tokyonight&hide_border=false" height="140em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanketmuchhala&layout=compact&theme=tokyonight&langs_count=6&hide=html,css,scss" height="140em"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanketmuchhala&layout=compact&theme=tokyonight&langs_count=6&hide=html,css,scss" height="150em"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanketmuchhala&theme=tokyo-night&hide_border=true&area=true&area_color=4F8CC9&height=200" height="200em" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanketmuchhala&theme=tokyo-night&hide_border=true&area=true&area_color=4F8CC9" height="180em" />
 </div>
 
 ---
