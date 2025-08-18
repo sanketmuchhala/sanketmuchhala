@@ -46,7 +46,6 @@ I'm a data-driven problem solver with a focus on **Machine Learning**, **Analyti
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sanketmuchhala&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide=contribs,issues" height="140em" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanketmuchhala&theme=tokyonight&hide_border=false" height="140em" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanketmuchhala&layout=compact&theme=tokyonight&langs_count=6&hide=html,css,scss" height="140em"/>
 </div>
 
