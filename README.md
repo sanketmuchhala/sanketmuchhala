@@ -8,11 +8,6 @@
   <img src="https://img.shields.io/github/stars/sanketmuchhala?label=Stars&style=flat-square&color=yellow" alt="GitHub Stars" />
 </div>
 
-<div align="center">
-  <img src="https://img.shields.io/github/repos/sanketmuchhala?label=Public%20Repos&style=flat-square&color=orange" alt="Public Repos" />
-  <img src="https://img.shields.io/github/repos/sanketmuchhala?label=Private%20Repos&style=flat-square&color=red" alt="Private Repos" />
-</div>
-
 ---
 
 ## 🚀 About Me
