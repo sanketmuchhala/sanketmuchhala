@@ -10,7 +10,7 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 I'm a data-driven problem solver with a focus on **Machine Learning**, **Analytics**, and **Applied AI**. My passion lies in converting data into decisions, crafting well-structured pipelines, and building tools that scale.
 
@@ -18,7 +18,7 @@ I'm a data-driven problem solver with a focus on **Machine Learning**, **Analyti
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black"/>
@@ -37,7 +37,7 @@ I'm a data-driven problem solver with a focus on **Machine Learning**, **Analyti
 
 ---
 
-## 📊 GitHub Analytics
+##  GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sanketmuchhala&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide=contribs,issues" height="140em" />
@@ -50,7 +50,7 @@ I'm a data-driven problem solver with a focus on **Machine Learning**, **Analyti
 
 ---
 
-## 📫 Connect With Me
+##  Connect With Me
 
 <div align="center">
   <a href="https://sanketmuchhala.github.io" target="_blank">
